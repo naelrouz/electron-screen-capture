@@ -1,0 +1,16 @@
+{
+  "name": "deserted-motion-diagnose-g6mmj",
+  "productName": "deserted-motion-diagnose-g6mmj",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "terry",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "17.0.0"
+  }
+}
